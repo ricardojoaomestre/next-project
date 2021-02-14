@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/24e6b0ff-f5ab-4d1c-a786-ff6bf019e0a1/deploy-status)](https://app.netlify.com/sites/snake-the-game/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/46ce19a2-28ff-445d-bb54-3ba4ce676691/deploy-status)](https://app.netlify.com/sites/next-project/deploys)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
