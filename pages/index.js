@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1>
-          Welcome to my next-project running on{" "}
+          Welcome to my <code>next-project</code> running on{" "}
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
         </h1>
       </main>
